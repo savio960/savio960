@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **savio960/savio960** is a ✨ _special_ ✨ repository because its `READM# Olá, eu sou o Savio Rosa! 👋
 ### Estudante de Engenharia de Energia @ UFPA ⚡
